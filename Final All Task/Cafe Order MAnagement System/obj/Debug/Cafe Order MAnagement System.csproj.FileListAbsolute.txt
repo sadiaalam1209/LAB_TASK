@@ -1,0 +1,12 @@
+D:\PDF\OOP02\ConsoleApp1\Cafe Order MAnagement System\bin\Debug\Cafe Order MAnagement System.exe.config
+D:\PDF\OOP02\ConsoleApp1\Cafe Order MAnagement System\bin\Debug\Cafe Order MAnagement System.exe
+D:\PDF\OOP02\ConsoleApp1\Cafe Order MAnagement System\bin\Debug\Cafe Order MAnagement System.pdb
+D:\PDF\OOP02\ConsoleApp1\Cafe Order MAnagement System\obj\Debug\Cafe Order MAnagement System.csproj.AssemblyReference.cache
+D:\PDF\OOP02\ConsoleApp1\Cafe Order MAnagement System\obj\Debug\Cafe_Order_MAnagement_System.Form1.resources
+D:\PDF\OOP02\ConsoleApp1\Cafe Order MAnagement System\obj\Debug\Cafe_Order_MAnagement_System.OrderAdd.resources
+D:\PDF\OOP02\ConsoleApp1\Cafe Order MAnagement System\obj\Debug\Cafe_Order_MAnagement_System.Properties.Resources.resources
+D:\PDF\OOP02\ConsoleApp1\Cafe Order MAnagement System\obj\Debug\Cafe Order MAnagement System.csproj.GenerateResource.cache
+D:\PDF\OOP02\ConsoleApp1\Cafe Order MAnagement System\obj\Debug\Cafe Order MAnagement System.csproj.CoreCompileInputs.cache
+D:\PDF\OOP02\ConsoleApp1\Cafe Order MAnagement System\obj\Debug\Cafe Order MAnagement System.exe
+D:\PDF\OOP02\ConsoleApp1\Cafe Order MAnagement System\obj\Debug\Cafe Order MAnagement System.pdb
+D:\PDF\OOP02\ConsoleApp1\Cafe Order MAnagement System\obj\Debug\Cafe_Order_MAnagement_System.DeshBord.resources

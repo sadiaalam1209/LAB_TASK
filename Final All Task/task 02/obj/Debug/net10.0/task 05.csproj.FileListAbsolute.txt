@@ -1,0 +1,7 @@
+D:\PDF\OOP02\task 05\obj\Debug\net10.0\task 05.csproj.AssemblyReference.cache
+D:\PDF\OOP02\task 05\obj\Debug\net10.0\task 05.GeneratedMSBuildEditorConfig.editorconfig
+D:\PDF\OOP02\task 05\obj\Debug\net10.0\task 05.gentestingplatformentrypointinputcache.cache
+D:\PDF\OOP02\task 05\obj\Debug\net10.0\task 05.genautoregisteredextensionsinputcache.cache
+D:\PDF\OOP02\task 05\obj\Debug\net10.0\task 05.AssemblyInfoInputs.cache
+D:\PDF\OOP02\task 05\obj\Debug\net10.0\task 05.AssemblyInfo.cs
+D:\PDF\OOP02\task 05\obj\Debug\net10.0\task 05.csproj.CoreCompileInputs.cache
